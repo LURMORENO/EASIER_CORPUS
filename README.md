@@ -12,6 +12,11 @@ Each line represents a sentence with one complex word annotation and relevant in
   * The seventh column shows the gold-standard label for the binary task.
   
 ## FOR THE SG/SS DATASET:
+  * The first column shows the ID of the document.
+  * The second column shows the ID of the target word.
+  * The third column shows the target word.
+  * The fourth column shows the sentence.
+  * The fifth column shows the suggested synonyms for the target word separated by a comma.
   
 
 
