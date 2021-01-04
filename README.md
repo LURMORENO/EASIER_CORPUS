@@ -1,6 +1,7 @@
 # EASIER_CORPUS
 Repository for easier corpus. Represented by:
 
+| TASK | # |
 | --- | --- |
 | Complex Words detected | 8155 |
 | Suggested synonyms | 7892 |
