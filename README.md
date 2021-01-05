@@ -27,7 +27,7 @@ Each line represents a sentence with one complex word annotation and relevant in
   
 
 ## AGREEMENT
-We performed an agreement between the original annotator(1) and other two different annotators(1) (2).
+We performed an agreement between the original annotator(1) and other two different annotators(2) (3).
 ### COHEN´S KAPPA
 | Annotators | Score |
 | --- | --- |
