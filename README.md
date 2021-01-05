@@ -1,3 +1,7 @@
+REFERENCE:
+Lourdes Moreno and Rodrigo Alarcon. EASIER Corpus. Computer Science Department, Universidad Carlos III de Madrid.
+https://github.com/LURMORENO/EASIER_CORPUS 
+
 # EASIER_CORPUS
 Repository for easier corpus. Represented by:
 
@@ -39,4 +43,3 @@ We performed an agreement between the original annotator(1) and other two differ
 | Annotators | Score |
 | --- | --- |
 | (1) (2) (3) | 0.641 |
-
