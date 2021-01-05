@@ -42,7 +42,7 @@ We performed an agreement between the original annotator(1) and other two differ
 | --- | --- |
 | (1) (2) (3) | 0.641 |
 
-
+Please, if you use our corpus, remember to cite this paper:
 # REFERENCE:
 Lourdes Moreno and Rodrigo Alarcon. EASIER Corpus. Computer Science Department, Universidad Carlos III de Madrid.
 https://github.com/LURMORENO/EASIER_CORPUS 
