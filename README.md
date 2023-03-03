@@ -47,5 +47,7 @@ Please, if you use our corpus, remember to cite this paper:
 Lourdes Moreno and Rodrigo Alarcon. EASIER Corpus. Computer Science Department, Universidad Carlos III de Madrid.
 https://github.com/LURMORENO/EASIER_CORPUS 
 
+# DIFUSSION RIGHTS:
+This corpus is under CC BY-NC-ND 4.0, https://creativecommons.org/licenses/by-nc-nd/4.0/ license.
 
 
