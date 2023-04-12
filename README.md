@@ -47,7 +47,7 @@ Please, if you use our corpus, remember to cite this paper:
 
 Please, if you use our corpus, remember to cite this paper:
 
-Rodrigo Alarcón, Lourdes Moreno, Paloma Martínez. (2023). EASIER corpus: A lexical simplification resource for people with cognitive impairments. PLOS ONE. 18, (4), 1-23. Public Library of Science. 2023, Abril. 10.1371/journal.pone.0283622. [Q2].
+Alarcon R, Moreno L, Martínez P (2023) EASIER corpus: A lexical simplification resource for people with cognitive impairments. PLOS ONE 18(4): e0283622. https://doi.org/10.1371/journal.pone.0283622
 
 # DIFUSSION RIGHTS:
 This corpus is under CC BY-NC-ND 4.0, https://creativecommons.org/licenses/by-nc-nd/4.0/ license.
