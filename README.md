@@ -52,4 +52,7 @@ Alarcon R, Moreno L, Martínez P (2023) EASIER corpus: A lexical simplification 
 # DIFUSSION RIGHTS:
 This corpus is under CC BY-NC-ND 4.0, https://creativecommons.org/licenses/by-nc-nd/4.0/ license.
 
+# Acknowledgments
+
+- This work is part of the R\&D\&i ACCESS2MEET (PID2020-116527RB-I0) project financed by MCIN AEI/10.13039/501100011033/, and the "Intelligent and interactive home care system for the mitigation of the COVID-19 pandemic" project (PRTR-REACT UE) awarded by CAM. CONSEJERÍA DE EDUCACIÓN E INVESTIGACION.
 
